@@ -1,0 +1,6 @@
+framework module Pods_managementTool {
+  umbrella header "Pods-managementTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
